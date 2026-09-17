@@ -1,0 +1,63 @@
+BAB III
+PEMBAHASAN KARBURATOR
+
+A. PENGERTIAN KARBURATOR
+
+Karburator mobil adalah perangkat mekanis pada mesin bensin yang berfungsi
+mencampur udara dan bahan bakar dengan proporsi yang pas, menggunakan prinsip perbedaan
+tekanan udara (efek venturi), sebelum campuran tersebut dikirim ke ruang bakar.
+
+● Fungsi utama
+Fungsi utamanya : Mencampur bensin dan udara dalam jumlah yang tepat,mengubah bensin
+menjadi kabut halus,lalu menyalurkannya ke dalam mesin sesuai dengan injakan pedal gas.
+
+● Cara kerja :
+Mesin menghisap udara luar melewati pipa sempit (venturi). Kecepatan udara yang tinggi di
+venturi menciptakan kevakuman, sehingga bensin otomatis terhisap dan berubah menjadi kabut
+lalu masuk ke ruang bakar. Besar kecilnya semprotan diatur oleh injakan pedal gas.
+
+● Jenis:
+Berdasarkan Arah Udara :
+
+Arus turun : Udara mengalir dari atas ke bawah (paling banyak dipakai).
+
+Arus datar : Udara mengalir horizontal dari samping (biasanya mobil balap/tua).
+
+Berdasarkan Jumlah Lubang (Barrel) :
+
+Single barrel: Satu lubang, untuk mesin kecil dan irit.
+
+Multi barrel : Dua atau lebih lubang, lubang kedua terbuka otomatis saat butuh
+tenaga besar.
+
+Berdasarkan Sifat Venturi :
+
+Venturi tetap    : Diameter lubang udara selalu sama.
+
+Venturi variabel: Diameter lubang bisa membesar/mengecil sesuai gas.
+
+
+B. CARA KERJA KARBURATOR
+
+Karburator bekerja dengan memanfaatkan prinsip vakum atau perbedaan tekanan udara. Saat
+piston bergerak turun, ia menghisap udara dari atmosfer dan melewatkannya melalui saluran sempit
+bernama venturi. Aliran udara cepat ini menciptakan tekanan rendah yang otomatis menarik bensin dari
+mangkuk penampung agar tercampur menjadi kabut halus sebelum dialirkan ke ruang bakar mesin.
+
+
+C. ALAT YANG DIGUNAKAN
+
+● Alat tangan
+
+1. Obeng plus dan minus: Melepas sekrup bodi, mangkok, serta menyetel baut udara/langsam.
+2. Kunci pas, ring, atau T: Membuka baut pengikat karburator ke mesin atau manifold.
+3. Tang lancip (needle-nose pliers): Mencabut pin pelampung dan memegang komponen kecil.
+
+● Alat ukur dan diagnostik
+
+1. Jangka sorong (vernier caliper): Mengukur diameter spuyer, lubang venturi, atau ketebalan
+komponen.
+2. Penggaris atau float level gauge: Mengukur ketinggian posisi pelampung bensin di dalam mangkok.
+3. Kaca pembesar (magnifying glass): Memeriksa keretakan dinding karburator atau keausan ujung
+jarum pelampung.
+4. Tachometer (alat opsional): Mengukur putaran mesin (RPM) saat menyetel posisi langsam yang pas.
